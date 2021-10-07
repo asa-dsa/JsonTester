@@ -1,0 +1,10 @@
+ {
+   "_scroll_id": "value",
+   "hits": {
+     "hits": [
+       1,
+       2
+     ],
+     "total": 0
+   }
+}
